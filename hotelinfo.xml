@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hotel_design.xsl"?>
+
+<hotel_list>
+
+    <hotel>
+        <hotel_id>H001</hotel_id>
+        <name>Grand Vista Hotel</name>
+        <location>New York, USA</location>
+        <rating>⭐⭐⭐⭐⭐</rating>
+        <price_per_night>$250</price_per_night>
+        <amenities>Free Wi-Fi, Pool, Spa, Gym</amenities>
+    </hotel>
+
+    <hotel>
+        <hotel_id>H002</hotel_id>
+        <name>Seaside Resort</name>
+        <location>Maldives</location>
+        <rating>⭐⭐⭐⭐</rating>
+        <price_per_night>$400</price_per_night>
+        <amenities>Private Beach, Infinity Pool, Free Breakfast</amenities>
+    </hotel>
+
+    <hotel>
+        <hotel_id>H003</hotel_id>
+        <name>Skyline Suites</name>
+        <location>Tokyo, Japan</location>
+        <rating>⭐⭐⭐⭐⭐</rating>
+        <price_per_night>$320</price_per_night>
+        <amenities>Sky Lounge, Sushi Bar, Fitness Center</amenities>
+    </hotel>
+
+    <hotel>
+        <hotel_id>H004</hotel_id>
+        <name>Royal Heritage Hotel</name>
+        <location>London, UK</location>
+        <rating>⭐⭐⭐⭐</rating>
+        <price_per_night>$280</price_per_night>
+        <amenities>Historical Architecture, Fine Dining, Wine Bar</amenities>
+    </hotel>
+
+    <hotel>
+        <hotel_id>H005</hotel_id>
+        <name>Sunset Paradise</name>
+        <location>Bali, Indonesia</location>
+        <rating>⭐⭐⭐⭐⭐</rating>
+        <price_per_night>$350</price_per_night>
+        <amenities>Ocean View, Yoga Classes, Spa and Wellness</amenities>
+    </hotel>
+
+</hotel_list>
